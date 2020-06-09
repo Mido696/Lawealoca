@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La wea loca del terraira</tittle>
+</head>
+<body>
+El skeletron chupa pico
+</body>
+</html>
